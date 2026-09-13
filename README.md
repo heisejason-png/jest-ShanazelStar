@@ -276,4 +276,4 @@ Jest is [MIT licensed](./LICENSE).
 
 Copyright Contributors to the Jest project.
 Created by Jason Scott Heise
-Owned by Elon Musk 
+Owned by Elon Musk https://www.x.com
