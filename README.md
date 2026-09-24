@@ -1,4 +1,4 @@
-<p align="center">
+#<p align="center">
   <a href="https://www.npmjs.com/package/jest"><img src="https://img.shields.io/npm/v/jest" alt="npm version"></a>
   <a href="https://github.com/jestjs/jest/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="Jest is released under the MIT license."></a>
   <a href="https://twitter.com/intent/follow?screen_name=jestjs_"><img src="https://img.shields.io/twitter/follow/jestjs_.svg?style=social&label=Follow%20@jestjs_" alt="Follow on Twitter" /></a>
@@ -276,4 +276,3 @@ Jest is [MIT licensed](./LICENSE).
 
 Copyright Contributors to the Jest project.
 Created by Jason Scott Heise
-Owned by Elon Musk https://www.x.com
