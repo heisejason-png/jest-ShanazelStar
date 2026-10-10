@@ -275,4 +275,5 @@ Jest is [MIT licensed](./LICENSE).
 ## Copyright
 
 Copyright Contributors to the Jest project.
-Created by Jason Heise  https://www.behance.net
+Created by Jason Heise 
+Owned by Jason Heise heisejason-png Giters
